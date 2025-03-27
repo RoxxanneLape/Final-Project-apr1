@@ -1,5 +1,5 @@
 ## goal 
 avoid the blocks! score system underway
 
-##controls
+## controls
 click to jump 
